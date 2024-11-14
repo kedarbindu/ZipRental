@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+WebAngularRAC/bin/
+WebAngularRAC/obj/
+ReadMe_First
+WebAngularRAC/bin/Debug/net46/win7-x86/Microsoft.AspNetCore.JsonPatch.dll
+WebAngularRAC/bin/Debug/net46/win7-x86/Microsoft.Extensions.PlatformAbstractions.dll
+WebAngularRAC/bin/Debug/net46/win7-x86/WebAngularRAC.deps.json
+WebAngularRAC/bin/Debug/net46/win7-x86/WebAngularRAC.exe
+WebAngularRAC/bin/Debug/net46/win7-x86/WebAngularRAC.exe.config
+WebAngularRAC/bin/Debug/net46/win7-x86/WebAngularRAC.pdb
+WebAngularRAC/obj/project.assets.json
+WebAngularRAC/obj/WebAngularRAC.csproj.nuget.g.props
+WebAngularRAC/obj/WebAngularRAC.csproj.nuget.g.targets
+WebAngularRAC/obj/Debug/net46/win7-x86/WebAngularRAC.AssemblyInfo.cs
+WebAngularRAC/obj/Debug/net46/win7-x86/WebAngularRAC.csproj.FileListAbsolute.txt
+WebAngularRAC/obj/Debug/net46/win7-x86/WebAngularRAC.exe
+WebAngularRAC/obj/Debug/net46/win7-x86/WebAngularRAC.pdb
+SqlDatabase

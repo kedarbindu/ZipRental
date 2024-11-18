@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAngularRAC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+321a549a5a3a657c46c343278d995635cbd93f7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b9e6fa86fb7337f4c869208e8d24e23fd88a0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAngularRAC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAngularRAC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

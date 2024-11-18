@@ -10230,19 +10230,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sudeepta_kar\\.nuget\\packages\\": {}
+    "C:\\Users\\sakshi_kulshrestha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sudeepta_kar\\Documents\\ZipRental\\WebAngularRAC\\WebAngularRAC.csproj",
+      "projectUniqueName": "C:\\Users\\sakshi_kulshrestha\\OneDrive - Persistent Systems Limited\\Desktop\\sasva_scan_ide\\ZipRental\\WebAngularRAC\\WebAngularRAC.csproj",
       "projectName": "WebAngularRAC",
-      "projectPath": "C:\\Users\\sudeepta_kar\\Documents\\ZipRental\\WebAngularRAC\\WebAngularRAC.csproj",
-      "packagesPath": "C:\\Users\\sudeepta_kar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sudeepta_kar\\Documents\\ZipRental\\WebAngularRAC\\obj\\",
+      "projectPath": "C:\\Users\\sakshi_kulshrestha\\OneDrive - Persistent Systems Limited\\Desktop\\sasva_scan_ide\\ZipRental\\WebAngularRAC\\WebAngularRAC.csproj",
+      "packagesPath": "C:\\Users\\sakshi_kulshrestha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sakshi_kulshrestha\\OneDrive - Persistent Systems Limited\\Desktop\\sasva_scan_ide\\ZipRental\\WebAngularRAC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sudeepta_kar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sakshi_kulshrestha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net46"
@@ -10260,6 +10260,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10305,7 +10310,7 @@
             "version": "[1.0.1, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
@@ -10313,5 +10318,51 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Mvc' 1.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-6xh7-4v2w-36q6",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6",
+        ".NETFramework,Version=v4.6/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Mvc' 1.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-ch6p-4jcm-h8vh",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6",
+        ".NETFramework,Version=v4.6/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Mvc' 1.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-j8f4-2w4p-mhjc",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6",
+        ".NETFramework,Version=v4.6/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Mvc' 1.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-qhqf-ghgh-x2m4",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6",
+        ".NETFramework,Version=v4.6/win7-x86"
+      ]
+    }
+  ]
 }

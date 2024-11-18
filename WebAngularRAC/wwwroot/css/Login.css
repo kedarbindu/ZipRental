@@ -1,4 +1,4 @@
-﻿/* @import url(http://fonts.googleapis.com/css?family=Roboto:400);
+﻿@import url(http://fonts.googleapis.com/css?family=Roboto:400);
 
 body {
     background-color: #fff;
@@ -30,10 +30,10 @@ h4 {
     text-align: center;
 }
 
-/* .form-control {
+.form-control {
     border-radius: 10px;
-} */
+} 
 
 .wrapper {
     text-align: center;
-} */
+}
